@@ -1,0 +1,153 @@
+L:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.exe.config
+L:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.exe
+L:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.pdb
+L:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.xml
+L:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+L:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.frmMain.resources
+L:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.Resources.resources
+L:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+L:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.exe
+L:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.xml
+L:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.pdb
+E:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.exe.config
+E:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.exe
+E:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.xml
+E:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.pdb
+E:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.exe
+E:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.pdb
+E:\CS223\Projects\Detailing\Detailing\bin\Debug\Detailing.xml
+E:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+E:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.frmMain.resources
+E:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.Resources.resources
+E:\CS223\Projects\Detailing\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.exe.config
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.frmMain.resources
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.Resources.resources
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.exe.config
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.exe
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.xml
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.pdb
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.exe
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.pdb
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.xml
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.frmMain.resources
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.Resources.resources
+L:\CS223\Projects\Brian_Johnson_Detailing\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing\Detailing\bin\Debug\Detailing.xml
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.exe.config
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.exe
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.xml
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.pdb
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.exe
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.pdb
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.xml
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.frmMain.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.Resources.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.exe.config
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\bin\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.frmMain.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.Resources.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.frmAbout.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.frmAbout.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_2\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe.config
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmAbout.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmMain.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.Resources.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe.config
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmAbout.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmDisplay.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmMain.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.Resources.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe.config
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.exe
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.xml
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.pdb
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmAbout.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmDisplay.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmMain.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.Resources.resources
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.pdb
+L:\CS223\Projects\Brian_Johnson_Detailing_Project_3_2\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe.config
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.exe
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.pdb
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\bin\Debug\Detailing.xml
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmAbout.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmDisplay.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.frmMain.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.Resources.resources
+E:\CS223\Projects\Brian_Johnson_Detailing_Project_4\Brian_Johnson_Detailing_Project_3\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.exe.config
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.exe
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.xml
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.pdb
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmAbout.resources
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmDisplay.resources
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmMain.resources
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.Resources.resources
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.exe
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.pdb
+E:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.xml
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.exe.config
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.exe
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.xml
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.pdb
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.exe
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.pdb
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\bin\Debug\Detailing.xml
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.vbprojResolveAssemblyReference.cache
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmDetailingSplash.resources
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmAbout.resources
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmDisplay.resources
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.frmMain.resources
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.Resources.resources
+L:\Brian_Johnson_Detailing_Project_4 (1)\Brian_Johnson_Detailing_Project_4\Detailing\obj\Debug\Detailing.vbproj.GenerateResource.Cache
